@@ -3091,7 +3091,7 @@
         "Webserver"
       ],
       "description": "Caddy - The Ultimate Server with Automatic HTTPS.  Need to run tools/install_caddy.sh before installing the template.",
-      "image": "caddy:latest",
+      "image": "caddy:2.8.4-alpine",
       "logo": "https://raw.githubusercontent.com/pi-hosted/pi-hosted/master/images/caddy.png",
       "name": "caddy",
       "note": "<b>Template created by Pi-Hosted Series</b><br><b>Check our Github page: <a href=\"https://github.com/pi-hosted/pi-hosted\" target=\"_blank\">https://github.com/pi-hosted/pi-hosted</a></b><br><br><b>Official Webpage: </b><a href=\"https://caddyserver.com/\" target=\"_blank\">https://caddyserver.com/</a><br><b>Official Docker Documentation: </b><a href=\"https://hub.docker.com/_/caddy\" target=\"_blank\">https://hub.docker.com/_/caddy</a><br><br><h3><b><a href=\"https://github.com/pi-hosted/pi-hosted/blob/master/tools/install_caddy.sh\" target=\"_blank\">Pre-installation script</a> must be RAN before you install: </b>wget -qO- https://raw.githubusercontent.com/pi-hosted/pi-hosted/master/tools/install_caddy.sh | bash</h3><br><br>Caddy 2 is a powerful, enterprise-ready, open source web server with automatic HTTPS written in Go",
